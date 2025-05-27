@@ -34,9 +34,9 @@
 
 ## Vamos nos conectar?
 
-- 📫 Email: gabrielpessoal019@gmail.com *(substitua pelo seu real)*  
-- 💼 LinkedIn: [linkedin.com/in/gabrieldossantos](https://linkedin.com/in/gabrieldossantos)  
-- 🌐 GitHub: [github.com/GabrielSantosv]([https://github.com/GabrielSantosv](https://github.com/GabrielSantosv/))  
+- 📫 Email: gabrieldossantos@email.com *(substitua pelo seu real)*  
+- 💼 LinkedIn: [linkedin.com/in/gabriel-dos-santos-64a12b366](https://www.linkedin.com/in/gabriel-dos-santos-64a12b366/)  
+- 🌐 GitHub: [github.com/GabrielSantosv](https://github.com/GabrielSantosv)  
 
 ---
 
