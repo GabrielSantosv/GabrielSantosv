@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! Eu sou o Gabriel dos Santos 👋
 
-<!--
-**GabrielSantosv/GabrielSantosv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://img.shields.io/badge/Status-Em%20busca%20de%20oportunidades-blue)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+
+- 🎂 Tenho 20 anos  
+- 🎓 Cursando 2º ano em **Sistemas de Informação** na **PUCC Campinas**  
+- 💻 Apaixonado por tecnologia, programação e jogos  
+- 🚀 Buscando oportunidades na área de TI para crescer e contribuir  
+
+---
+
+## Linguagens & Tecnologias que domino
+
+| Linguagens             | Banco de Dados             | Frameworks / Outras Techs  |
+|-----------------------|----------------------------|----------------------------|
+| C                     | MySQL                      | Flutter                    |
+| JavaScript            | Oracle                     | Kotlin                     |
+| HTML & CSS            | MongoDB Atlas              |                            |
+| Python                |                            |                            |
+
+---
+
+## Minhas paixões 💙
+
+- Criar soluções eficientes com código limpo  
+- Explorar novas tecnologias e frameworks  
+- Jogar e aprender com games que desafiam o raciocínio  
+
+---
+
+## Vamos nos conectar?
+
+- 📫 Email: gabrielpessoal019@gmail.com *(substitua pelo seu real)*  
+- 💼 LinkedIn: [linkedin.com/in/gabrieldossantos](https://linkedin.com/in/gabrieldossantos)  
+- 🌐 GitHub: [github.com/GabrielSantosv]([https://github.com/GabrielSantosv](https://github.com/GabrielSantosv/))  
+
+---
+
+**Obrigado por visitar meu perfil! Estou aberto a oportunidades, parcerias e desafios. Vamos conversar? 😉**
+
+---
+
+> “O futuro pertence àqueles que acreditam na beleza dos seus sonhos.” – Eleanor Roosevelt
