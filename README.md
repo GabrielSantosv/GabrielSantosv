@@ -7,7 +7,7 @@
 ## Sobre Mim
 
 - 🎂 Tenho 20 anos  
-- 🎓 Cursando 2º ano em **Sistemas de Informação** na **PUCC Campinas**  
+- 🎓 Cursando 2º ano em **Sistemas de Informação** na **PUC Campinas**  
 - 💻 Apaixonado por tecnologia, programação e jogos  
 - 🚀 Buscando oportunidades na área de TI para crescer e contribuir  
 
