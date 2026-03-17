@@ -15,12 +15,14 @@
 
 ## 💻 Linguagens & Tecnologias que domino
 
-| Linguagens          | Banco de Dados    | Frameworks / Outras Techs |
-|----------------------|-------------------|---------------------------|
-| C                    | MySQL             | Flutter                   |
-| JavaScript           | Oracle            | Kotlin                    |
-| HTML & CSS           | MongoDB Atlas     | Firebase                  |
-| Python               |                   |                           |
+| Linguagens        | Banco de Dados   | Frameworks / Outras Techs |
+|------------------|------------------|---------------------------|
+| C                | MySQL            | Flutter                   |
+| JavaScript       | Oracle           | Kotlin                    |
+| HTML & CSS       | MongoDB Atlas    | Firebase                  |
+| Python           | Docker           | Java                      |
+| Java             | PostgreSQL       |                           |
+
 
 ---
 
@@ -34,7 +36,7 @@
 
 ## 🤝 Vamos nos Conectar?
 
-- 📫 **Email:** gabrielpessoal019@gmail.com  
+- 📫 **Email:** gabrielsantosdevti@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/gabriel-dos-santos-0b3398378](https://www.linkedin.com/in/gabriel-dos-santos-0b3398378)  
 - 🌐 **GitHub:** [github.com/GabrielSantosv](https://github.com/GabrielSantosv)  
 
