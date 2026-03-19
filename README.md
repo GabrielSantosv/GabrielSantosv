@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 Sobre Mim
+##  Sobre Mim
 
 - Tenho 21 anos  
 - Cursando 3º ano de **Sistemas de Informação** na **PUC Campinas**  
