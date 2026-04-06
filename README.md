@@ -37,7 +37,7 @@
 ## Vamos nos Conectar?
 
 -  **Email:** gabrielsantosdevti@gmail.com
--  **LinkedIn:** [linkedin.com/in/gabriel-dos-santos-0b3398378](https://www.linkedin.com/in/gabriel-dos-santos-0b3398378)  
+-  **LinkedIn:** [linkedin.com/in/gabrielsantosv](https://www.linkedin.com/in/gabrielsantosv/) 
 -  **GitHub:** [github.com/GabrielSantosv](https://github.com/GabrielSantosv)  
 
 ---
